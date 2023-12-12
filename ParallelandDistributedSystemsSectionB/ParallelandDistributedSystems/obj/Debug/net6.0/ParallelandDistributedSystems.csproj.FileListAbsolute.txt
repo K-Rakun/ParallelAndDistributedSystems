@@ -1,0 +1,14 @@
+C:\Users\casper\source\repos\ParallelandDistributedSystems\ParallelandDistributedSystems\bin\Debug\net6.0\ParallelandDistributedSystems.exe
+C:\Users\casper\source\repos\ParallelandDistributedSystems\ParallelandDistributedSystems\bin\Debug\net6.0\ParallelandDistributedSystems.deps.json
+C:\Users\casper\source\repos\ParallelandDistributedSystems\ParallelandDistributedSystems\bin\Debug\net6.0\ParallelandDistributedSystems.runtimeconfig.json
+C:\Users\casper\source\repos\ParallelandDistributedSystems\ParallelandDistributedSystems\bin\Debug\net6.0\ParallelandDistributedSystems.dll
+C:\Users\casper\source\repos\ParallelandDistributedSystems\ParallelandDistributedSystems\bin\Debug\net6.0\ParallelandDistributedSystems.pdb
+C:\Users\casper\source\repos\ParallelandDistributedSystems\ParallelandDistributedSystems\obj\Debug\net6.0\ParallelandDistributedSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\source\repos\ParallelandDistributedSystems\ParallelandDistributedSystems\obj\Debug\net6.0\ParallelandDistributedSystems.AssemblyInfoInputs.cache
+C:\Users\casper\source\repos\ParallelandDistributedSystems\ParallelandDistributedSystems\obj\Debug\net6.0\ParallelandDistributedSystems.AssemblyInfo.cs
+C:\Users\casper\source\repos\ParallelandDistributedSystems\ParallelandDistributedSystems\obj\Debug\net6.0\ParallelandDistributedSystems.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\ParallelandDistributedSystems\ParallelandDistributedSystems\obj\Debug\net6.0\ParallelandDistributedSystems.dll
+C:\Users\casper\source\repos\ParallelandDistributedSystems\ParallelandDistributedSystems\obj\Debug\net6.0\refint\ParallelandDistributedSystems.dll
+C:\Users\casper\source\repos\ParallelandDistributedSystems\ParallelandDistributedSystems\obj\Debug\net6.0\ParallelandDistributedSystems.pdb
+C:\Users\casper\source\repos\ParallelandDistributedSystems\ParallelandDistributedSystems\obj\Debug\net6.0\ParallelandDistributedSystems.genruntimeconfig.cache
+C:\Users\casper\source\repos\ParallelandDistributedSystems\ParallelandDistributedSystems\obj\Debug\net6.0\ref\ParallelandDistributedSystems.dll
